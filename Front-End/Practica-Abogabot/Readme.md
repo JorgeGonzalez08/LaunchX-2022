@@ -45,7 +45,7 @@ Es un despacho de abogados que quiere automatizar las demandas de sus clientes, 
 
 ## Definir el publico objetivo.
 
-![Image text]
+![Image text](https://github.com/JorgeGonzalez08/LaunchX-2022/blob/main/Front-End/Practica-Abogabot/img/Publico_objetivo.png)
 
 ## Crear Wireframe (UX).
 
