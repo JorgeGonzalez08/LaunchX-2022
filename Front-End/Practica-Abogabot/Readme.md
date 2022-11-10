@@ -41,24 +41,74 @@ Es un despacho de abogados que quiere automatizar las demandas de sus clientes, 
 
 ## Crear buyer persona.
 
-![Image text](https://github.com/JorgeGonzalez08/LaunchX-2022/blob/main/Front-End/Practica-Abogabot/img/Buyer_persona.png)
+![Image text](https://github.com/JorgeGonzalez08/LaunchX-2022/blob/main/Front-End/Practica-Abogabot/img/Buyer_persona/Buyer_persona.png)
 
 ## Definir el publico objetivo.
 
-![Image text](https://github.com/JorgeGonzalez08/LaunchX-2022/blob/main/Front-End/Practica-Abogabot/img/Publico_objetivo.png)
+![Image text](https://github.com/JorgeGonzalez08/LaunchX-2022/blob/main/Front-End/Practica-Abogabot/img/Publico_objetivo/Publico_objetivo.png)
 
 ## Crear Wireframe (UX).
+
+### Cliente
+
+#### Versión Desktop 🖥
+
+![Image text](https://github.com/JorgeGonzalez08/LaunchX-2022/blob/main/Front-End/Practica-Abogabot/img/UX/Desktop/Desktop%20-%209.png)
+![Image text](https://github.com/JorgeGonzalez08/LaunchX-2022/blob/main/Front-End/Practica-Abogabot/img/UX/Desktop/Desktop%20-%208.png)
+![Image text](https://github.com/JorgeGonzalez08/LaunchX-2022/blob/main/Front-End/Practica-Abogabot/img/UX/Desktop/Desktop%20-%2010.png)
+![Image text](https://github.com/JorgeGonzalez08/LaunchX-2022/blob/main/Front-End/Practica-Abogabot/img/UX/Desktop/Desktop%20-%2011.png)
+![Image text](https://github.com/JorgeGonzalez08/LaunchX-2022/blob/main/Front-End/Practica-Abogabot/img/UX/Desktop/Desktop%20-%2012.png)
+
+#### Version mobile 📱 
+
+![Image text](https://github.com/JorgeGonzalez08/LaunchX-2022/blob/main/Front-End/Practica-Abogabot/img/UX/Mobile/iPhone%2014%20Pro%20-%209.png)
+![Image text](https://github.com/JorgeGonzalez08/LaunchX-2022/blob/main/Front-End/Practica-Abogabot/img/UX/Mobile/iPhone%2014%20Pro%20-%208.png)
+![Image text](https://github.com/JorgeGonzalez08/LaunchX-2022/blob/main/Front-End/Practica-Abogabot/img/UX/Mobile/iPhone%2014%20Pro%20-%2010.png)
+![Image text](https://github.com/JorgeGonzalez08/LaunchX-2022/blob/main/Front-End/Practica-Abogabot/img/UX/Mobile/iPhone%2014%20Pro%20-%2011.png)
+![Image text](https://github.com/JorgeGonzalez08/LaunchX-2022/blob/main/Front-End/Practica-Abogabot/img/UX/Mobile/iPhone%2014%20Pro%20-%2012.png)
+
+### Administrador
+
+#### Versión Desktop 🖥
+
+![Image text](https://github.com/JorgeGonzalez08/LaunchX-2022/blob/main/Front-End/Practica-Abogabot/img/UX/Desktop/Desktop%20-%2013.png)
+![Image text](https://github.com/JorgeGonzalez08/LaunchX-2022/blob/main/Front-End/Practica-Abogabot/img/UX/Desktop/Desktop%20-%2014.png)
+
+#### Version mobile 📱 
+
+![Image text](https://github.com/JorgeGonzalez08/LaunchX-2022/blob/main/Front-End/Practica-Abogabot/img/UX/Mobile/iPhone%2014%20Pro%20-%2013.png)
+![Image text](https://github.com/JorgeGonzalez08/LaunchX-2022/blob/main/Front-End/Practica-Abogabot/img/UX/Mobile/iPhone%2014%20Pro%20-%2014.png)
 
 ## Crear interfaz (UI).
 
 ### Cliente
 
-#### Versión Desktop
+#### Versión Desktop 🖥
 
-#### Version mobile
+![Image text](https://github.com/JorgeGonzalez08/LaunchX-2022/blob/main/Front-End/Practica-Abogabot/img/UI/Desktop/Desktop%20-%202.png)
+![Image text](https://github.com/JorgeGonzalez08/LaunchX-2022/blob/main/Front-End/Practica-Abogabot/img/UI/Desktop/Desktop%20-%201.png)
+![Image text](https://github.com/JorgeGonzalez08/LaunchX-2022/blob/main/Front-End/Practica-Abogabot/img/UI/Desktop/Desktop%20-%203.png)
+![Image text](https://github.com/JorgeGonzalez08/LaunchX-2022/blob/main/Front-End/Practica-Abogabot/img/UI/Desktop/Desktop%20-%204.png)
+![Image text](https://github.com/JorgeGonzalez08/LaunchX-2022/blob/main/Front-End/Practica-Abogabot/img/UI/Desktop/Desktop%20-%205.png)
+
+#### Version mobile 📱 
+
+![Image text](https://github.com/JorgeGonzalez08/LaunchX-2022/blob/main/Front-End/Practica-Abogabot/img/UI/Mobile/iPhone%2014%20Pro%20-%202.png)
+![Image text](https://github.com/JorgeGonzalez08/LaunchX-2022/blob/main/Front-End/Practica-Abogabot/img/UI/Mobile/iPhone%2014%20Pro%20-%201.png)
+![Image text](https://github.com/JorgeGonzalez08/LaunchX-2022/blob/main/Front-End/Practica-Abogabot/img/UI/Mobile/iPhone%2014%20Pro%20-%205.png)
+![Image text](https://github.com/JorgeGonzalez08/LaunchX-2022/blob/main/Front-End/Practica-Abogabot/img/UI/Mobile/iPhone%2014%20Pro%20-%206.png)
+![Image text](https://github.com/JorgeGonzalez08/LaunchX-2022/blob/main/Front-End/Practica-Abogabot/img/UI/Mobile/iPhone%2014%20Pro%20-%207.png)
+
 
 ### Administrador
 
-#### Versión Desktop
+#### Versión Desktop 🖥
 
-#### Version mobile
+![Image text](https://github.com/JorgeGonzalez08/LaunchX-2022/blob/main/Front-End/Practica-Abogabot/img/UI/Desktop/Desktop%20-%206.png)
+![Image text](https://github.com/JorgeGonzalez08/LaunchX-2022/blob/main/Front-End/Practica-Abogabot/img/UI/Desktop/Desktop%20-%207.png)
+
+#### Version mobile 📱 
+
+![Image text](https://github.com/JorgeGonzalez08/LaunchX-2022/blob/main/Front-End/Practica-Abogabot/img/UI/Mobile/iPhone%2014%20Pro%20-%203.png)
+![Image text](https://github.com/JorgeGonzalez08/LaunchX-2022/blob/main/Front-End/Practica-Abogabot/img/UI/Mobile/iPhone%2014%20Pro%20-%204.png)
+
