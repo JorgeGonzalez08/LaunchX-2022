@@ -1,7 +1,7 @@
 # LaunchX-2022
 Repositorio de practicas del programa LaunchX
 
-# Software utilizado 🛠:
+# Herramientas utilizadas 🛠:
 
 - [Visual Studio Code](https://code.visualstudio.com/)
 
